@@ -39,6 +39,7 @@ function draw() {
   //sea.x = -3;
   sea.velocityX = -3;
  //sea.velocityX = -3;
+  index.html
   
 
   
